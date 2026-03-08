@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, soy Diego Gianfranco Damian Huamani
 
-<!--
-**EternalNoctis/EternalNoctis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ingeniería de Sistemas e Informática**
 
-Here are some ideas to get you started:
+💻 Apasionado por la tecnología, la programación y el desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+- 🎓 Universidad: Ingeniería de Sistemas e Informática  
+- 📚 Actualmente aprendiendo: Programación, algoritmos y desarrollo de software  
+- 🌱 Interesado en: Inteligencia Artificial, Ciberseguridad y Desarrollo de Software  
+- 🎯 Objetivo: Convertirme en un ingeniero capaz de crear soluciones tecnológicas que impacten al mundo.
+
+---
+
+## 🛠 Tecnologías que estoy aprendiendo
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Java
+- C++
+- Git & GitHub
+
+---
+
+
+## 🌐 Conecta conmigo
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/diego-gianfranco-damian-huamani-b92ab2347)
+- 📚 [Microsoft Learn](https://learn.microsoft.com/users/DGianfrancoDamian)
+- 🏆 [Credly](https://www.credly.com/users/diego-gianfranco-damian-huamani)

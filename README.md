@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Universidad: Ingeniería de Sistemas e Informática  
+- 🎓 Estudiante de Ingeniería de Sistemas e Informática 
 - 📚 Actualmente aprendiendo: Programación, algoritmos y desarrollo de software  
 - 🌱 Interesado en: Inteligencia Artificial, Ciberseguridad y Desarrollo de Software  
 - 🎯 Objetivo: Convertirme en un ingeniero capaz de crear soluciones tecnológicas que impacten al mundo.

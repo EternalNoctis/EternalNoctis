@@ -1,6 +1,6 @@
 # 👋 Hola, soy Diego Gianfranco Damian Huamani
 
-🎓 Estudiante de **Ingeniería de Sistemas e Informática**
+🎓 Estudiante de Ingeniería de Sistemas e Informática
 
 💻 Apasionado por la tecnología, la programación y el desarrollo de software.
 

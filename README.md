@@ -17,13 +17,9 @@
 
 ## 🛠 Tecnologías que estoy aprendiendo
 
-- Python
-- HTML
-- CSS
-- JavaScript
-- Java
-- C++
-- Git & GitHub
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github" />
+</p>
 
 ---
 
